@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "276423185957",
+    "project_id": "firebase-eemo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276423185957:android:58f57549df26a07f",
+        "android_client_info": {
+          "package_name": "kr.co.easybusy.androidapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADM6LPTy8zI4D6bN9M32IPp3tV4KoZ0PU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
