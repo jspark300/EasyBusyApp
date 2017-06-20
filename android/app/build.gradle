@@ -13,9 +13,9 @@ android {
     defaultConfig {
         applicationId 'kr.co.easybusy.androidapp2'
         minSdkVersion 16
-        targetSdkVersion 25
-        versionCode 10050
-        versionName '1.0.0.5'
+        targetSdkVersion 22
+        versionCode 10060
+        versionName '1.0.0.6'
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
